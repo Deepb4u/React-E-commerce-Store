@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-E-commerce-Store/static/css/main.8438b3a5.css",
+    "main.js": "/React-E-commerce-Store/static/js/main.c987cb33.js",
+    "static/media/01.webp": "/React-E-commerce-Store/static/media/01.acdf8402de97e285f5f7.webp",
+    "static/media/huronbottle.webp": "/React-E-commerce-Store/static/media/huronbottle.c09d96cce7ce9d7ed319.webp",
+    "static/media/logo.avif": "/React-E-commerce-Store/static/media/logo.45fcb2dd27bf9f9bb28b.avif",
+    "index.html": "/React-E-commerce-Store/index.html",
+    "main.8438b3a5.css.map": "/React-E-commerce-Store/static/css/main.8438b3a5.css.map",
+    "main.c987cb33.js.map": "/React-E-commerce-Store/static/js/main.c987cb33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8438b3a5.css",
+    "static/js/main.c987cb33.js"
+  ]
+}
